@@ -1,0 +1,12 @@
+theme: jekyll-theme-slate
+
+github:
+  owner_url: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+  owner_name: the team
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  parse_block_html: true
+  toc_levels: "1,2"
+
