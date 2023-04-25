@@ -2,11 +2,11 @@
 
 Ortsteil|Von x zu KIT Campus Süd mit Öffis|auch um 2:00 noch?|Häufigkeit Anbindung
 -|-|-|-
-Blankenloch/Stutensee|22|Ja|
-Durlach|16/20|Ja|
-Pfinztal|22|Ja|
-Rintheim|5|Ja|
-Hagsfeld|13|Ja|
+Blankenloch/Stutensee|22|Ja|4x Stunde
+Durlach|12/20|Ja|9x Stunde
+Berghausen|22|Nur bis 1|Alle 10 min
+Rintheim|5|Ja| Alle 10 min
+Hagsfeld|13|Ja| Tagsüber 5xStunde
 Weingarten|22|Ja|Alle 20-30
 Söllingen|grob 25|Ja| 30
 Friedrichtal|grob 30|ja| Tagsüber alle 20 min, Nachts 1h, Andere Route über HBF
